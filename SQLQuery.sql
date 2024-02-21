@@ -1,3 +1,5 @@
+/* CREATE DATABASE SampleDB; */
+
 CREATE TABLE Products (
 	Id INT PRIMARY KEY,
 	Name VARCHAR(40)
